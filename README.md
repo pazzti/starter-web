@@ -2,6 +2,8 @@
 
 ## Introduction
 
-##Purpose
+## Deployment
 
-##How to Contribute
+## Purpose
+
+## How to Contribute

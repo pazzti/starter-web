@@ -12,3 +12,6 @@ asdfahg;afdsg adsghasdgasdg jklajsd;kjasdf ;lkjasdlkfasd
 asdfadsgkhafdhsdfgs hgs'xcvb xcvn asd jlksdf sadkjg;sfdg ;lk
 
 ## How to Contribute
+
+### Copyright
+asdfasdfahjg' sadgusdf[g 

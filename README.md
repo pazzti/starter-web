@@ -1,8 +1,6 @@
 # Starter Web Project
 asdfasdiooad aso09asdg asdkl 09nlvc;b asdhz;xlkc 'akh; asdkh;lk sadf
- TO jeszcze jedna linijka
- asdf;klasdg Jeszcze tu cos dodam bo czemu nie
-	asdfasdf
+nowe zmiany o tu
 
 ## Introduction
 asdfasdf 0 asdlkfjas dfghskjdfgs sdfguxvcj xcvb; sdfg xcklvjb;dg
